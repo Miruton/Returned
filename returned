@@ -1,0 +1,23 @@
+def dec(ass):
+    '''This function modulus '''
+    mod=ass%1
+
+
+
+    if ass >= 0:
+        return '''you're a Leftist'''
+
+
+    else:
+        return '''you're a Rightist'''
+
+
+    
+print(dec(0))
+
+
+
+print(dec(-1))
+
+
+
